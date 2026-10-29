@@ -52,4 +52,4 @@ pytest -v
 
 ## Контакты
 
-[Имя] · Telegram: @[ник] · [email]
+Сергей · Telegram: @Ghost_LT42 · voychuk.rabota@gmail.com
